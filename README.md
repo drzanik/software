@@ -1,2 +1,3 @@
-# software
-Softvér na riadenie politickej strany
+# Softvér na riadenie politickej strany
+
+## Špecifikácia
